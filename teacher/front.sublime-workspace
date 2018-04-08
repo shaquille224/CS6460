@@ -1,0 +1,189 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Library/WebServer/Documents/teacher/addClient.php",
+		"/Users/chao/Desktop/PRIterator.py",
+		"/Users/chao/Study/Gatech/CS6460/git/CS6460/README.md",
+		"/Library/WebServer/Documents/MyWebService/V1/location.php",
+		"/Library/WebServer/Documents/MyWebService/V1/login.php",
+		"/Library/WebServer/Documents/Phase3/auth.php",
+		"/Library/WebServer/Documents/Phase3/front.php",
+		"/Library/WebServer/Documents/Phase3/index.php",
+		"/Library/WebServer/Documents/teacher/include/front_menu.php",
+		"/Library/WebServer/Documents/teacher/include/header.php",
+		"/Library/WebServer/Documents/MyWebService/includes/DbOperation.php",
+		"/Library/WebServer/Documents/teacher/include/common.php",
+		"/Library/WebServer/Documents/Phase3/include/common.php",
+		"/Users/chao/Study/Gatech/CS6460/SET default_storage_engine=InnoDB;",
+		"/Users/chao/Study/Gatech/CS6460/Phase3/sql/team006_p2_schema.sql",
+		"/Users/chao/Study/Gatech/CS6505/pageRankProject/testCaseSmall_SL_0.85-verifyRVec.txt",
+		"/Library/WebServer/Documents/MyWebService/V1/register.php",
+		"/Library/WebServer/Documents/MyWebService/api/createteam.php",
+		"/Library/WebServer/Documents/MyWebService/includes/DbConnect.php",
+		"/Library/WebServer/Documents/MyWebService/includes/Config.php",
+		"/Users/chao/Study/iOS/Shaquille625GmailComSBE5I/Podfile",
+		"/Users/chao/Study/Gatech/test2.py",
+		"/Users/chao/Study/Gatech/CS6505/pageRankProject/testCaseSmall.txt",
+		"/Users/chao/Study/Gatech/CS6505/test1.py",
+		"/Library/WebServer/Documents/index.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "front.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

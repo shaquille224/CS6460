@@ -1,0 +1,42 @@
+html {
+  	position: relative;
+  	min-height: 100%;
+}
+
+body {
+  	/* Margin bottom set equal footer height */
+  	margin-bottom: 60px;
+}
+
+th {
+	background-color: #CCCCCC;
+}
+
+.page-title {
+	color:white;
+}
+
+.footer {
+  	position: absolute;
+  	bottom: 0;
+ 	width: 100%;
+  	/* Set the fixed height of the footer here */
+  	height: 60px;
+    background-color: #eeb211;
+}
+
+.navbar {
+	background-color: black;
+}	
+
+.query{
+	font-family: Consolas, monaco, monospace;
+    background-color: #eeb211;
+    padding: 10px
+}
+
+.error{
+	background-color: #eb2626;
+	font-family: Consolas, monaco, monospace;
+    padding: 10px
+}
